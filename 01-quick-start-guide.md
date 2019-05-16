@@ -4,7 +4,6 @@ description: Quick overview to get you up and running in no time at all.
 layout: single
 categories: latex
 ---
-{% include toc icon="gears" title="On This Page" %}
 LaTeX can be used to develop very good technical documentation, but it requires the use of specific document classes, packages and settings. What follows in this and upcoming topics is entirely my own experience having to create high quality user guides and manuals using LaTeX. Much of it was trial and error until I finally landed on a good set of tools to do the job. Consultants, clients and Stack Overflow helped considerably.
 
 So, to get you up and running quickly, I have listed the steps you need to follow to generate a pdf file from a sample LaTeX file.
