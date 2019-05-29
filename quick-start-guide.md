@@ -1,25 +1,19 @@
----
-title: Quick Start Guide
+# Quick Start Guide - Overview
+
 description: Quick overview to get you up and running in no time at all.
-layout: single
-categories: latex
----
+
 LaTeX can be used to develop very good technical documentation, but it requires the use of specific document classes, packages and settings. What follows in this and upcoming topics is entirely my own experience having to create high quality user guides and manuals using LaTeX. Much of it was trial and error until I finally landed on a good set of tools to do the job. Consultants, clients and Stack Overflow helped considerably.
 
 So, to get you up and running quickly, I have listed the steps you need to follow to generate a pdf file from a sample LaTeX file.
 
 **ProTip:** If you have some experience with LaTeX you can skip this topic and jump right in using the more details topics that follow this topic.
-{: .notice--info}
 
 ## 1. Install the Distributions and Editors
 
 You need a properly installed TeX distribution such as ProTeXt and MacTeX. You will also need an editor such as TeXnicCenter, TeXworks or Eclipse.
 
 **See Also:** For information about TeX distributions and LaTeX editors, see [
-Selecting a LaTeX Distribution and a LaTeX Editor][dist hp].
-{: .notice--info}
-
-[dist hp]: http://localhost:4000/latex/04-installing_distributions/ "hp"
+Selecting a LaTeX Distribution and a LaTeX Editor](http://localhost:4000/latex/04-installing_distributions/)
 
 ## 2. Create a Sample Document
 
