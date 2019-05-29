@@ -1,10 +1,6 @@
----
-title: Creating Tables
-description: You can add simple to complex tables to a LaTeX document using several types of packages, depending on the requirements of the table.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Creating Tables
+
+You can add simple to complex tables to a LaTeX document using several types of packages, depending on the requirements of the table.
 
 As befits a technology designed for academia and scientific research, LaTeX provides a wide range of table options. I don't assume all knowledge when it comes to creating tables in LaTeX but I provide a few ideas or samples you can use.
 

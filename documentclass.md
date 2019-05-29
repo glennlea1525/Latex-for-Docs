@@ -1,10 +1,6 @@
----
-title: Selecting the Document Class
-description: The documentclass command tells the LaTeX typesetter how to handle the document and which document package to use to typeset the output.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Selecting the Document Class
+
+The documentclass command tells the LaTeX typesetter how to handle the document and which document package to use to typeset the output.
 
 This is probably the most important decision you need to make for creating technical documentation using LaTeX. After looking at several types of document classes, I settled on the *book* class as the best fit to do the job. Other documentclass types did not have the capability to output long documents with proper headers and footers and all the required elements of a high quality technical document.
 

@@ -1,9 +1,5 @@
----
-title: Setting Sectioning Styles and Packages
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Setting Sectioning Styles and Packages
+
 Two packages are used: titlesec and sectsty.
 
 titlesec pro­vid­es an in­ter­face to se­lec­t from var­i­ous ti­tle styles. E.g., marginal ti­tles and to change the font of all head­ings with a sin­gle com­mand, also pro­vid­ing sim­ple one-step page styles. Also in­cludes a pack­age to change the page styles when there are floats in a page. You may as­sign head­ers/foot­ers to in­di­vid­ual floats, too.

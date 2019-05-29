@@ -1,9 +1,6 @@
----
-title: Converting Source PDF Files to LaTeX Files
-description: What if you only had PDF files as your source material? How do you convert them to LaTeX?
-layout: single
-categories: latex
----
+# Converting Source PDF Files to LaTeX Files
+
+What if you only had PDF files as your source material? How do you convert them to LaTeX?
 
 Sometimes the only source material you have been provided to start creating the user guide are PDF files written in some other documentation tool or editor.
 

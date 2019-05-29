@@ -1,10 +1,6 @@
----
-title: LaTeX Commands Syntax
-description: A (very) brief overview of LaTeX command syntax.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# LaTeX Commands Syntax
+
+A (very) brief overview of LaTeX command syntax.
 
 The following sections provide an overview of LaTeX syntax.
 

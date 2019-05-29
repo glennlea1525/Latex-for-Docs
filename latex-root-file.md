@@ -1,10 +1,7 @@
----
-title: Structuring a LaTeX Root File
-description: This topic provides a simplified root file.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Structuring a LaTeX Root File
+
+This topic provides a simplified root file.
+
 A root file in LaTeX gives the document its structure. The title page, stylesheets, table of contents, chapters, and appendices are references in the root file using `\include` commands.
 
 ## Root File Sections

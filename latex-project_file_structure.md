@@ -1,10 +1,6 @@
----
-title: Creating a LaTeX Project File Structure
-description: A best practice for a technical documentation project is to use a root file.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Creating a LaTeX Project File Structure
+
+A best practice for a technical documentation project is to use a root file.
 
 A LaTeX project consists of a set of LaTeX files having a .tex extension, jpeg, png images (or other compatible formats) and stylesheets having a .sty extension.
 

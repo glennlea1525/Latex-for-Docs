@@ -1,10 +1,6 @@
----
-title: About LaTex Stylesheets
-description: Use a stylesheet to easily maintain all the styles used by the document.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# About LaTex Stylesheets
+
+Use a stylesheet to easily maintain all the styles used by the document.
 
 Style Sheets are a useful method of organizing all the styles that are used in your LaTeX document into a single file.
 

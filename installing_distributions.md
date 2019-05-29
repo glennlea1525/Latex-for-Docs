@@ -1,10 +1,6 @@
----
-title: Selecting a LaTeX Distribution and a LaTeX Editor
-description: To write LaTeX files, you can use LaTeX editors, but you need a TeX distribution to build LaTeX files into an output such as PDF.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Selecting a LaTeX Distribution and a LaTeX Editor
+
+To write LaTeX files, you can use LaTeX editors, but you need a TeX distribution to build LaTeX files into an output such as PDF.
 
 You need to install a TeX distribution and select a LaTeX editor. You can download all this software for free.
 

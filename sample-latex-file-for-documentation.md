@@ -1,10 +1,8 @@
----
-title: Sample LaTeX Root File
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
-<p>What we have here is a root LaTeX file that references a number of other files and gives the document a basic structure. The fun stuff has been placed in <em>include</em> files to make writing the document manageable. If you have used FrameMaker, you will see a pattern: the FrameMaker Book file works basically the same way as this LaTeX root file.</p>
+# Sample LaTeX Root File
+
+
+
+What we have here is a root LaTeX file that references a number of other files and gives the document a basic structure. The fun stuff has been placed in <em>include</em> files to make writing the document manageable. If you have used FrameMaker, you will see a pattern: the FrameMaker Book file works basically the same way as this LaTeX root file.
 
 <pre><code>\documentclass[a4paper,12pt,draft,twoside]{book}
 \usepackage{styles/mystyles}

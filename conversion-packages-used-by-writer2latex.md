@@ -1,9 +1,7 @@
----
-title: Adding writer2latex Conversion Packages to the Stylesheet
-description: If writer2latex was used, these conversion packages will be included in the stylesheet
-layout: single
-categories: latex
----
+# Adding writer2latex Conversion Packages to the Stylesheet
+
+If writer2latex was used, these conversion packages will be included in the stylesheet
+
 The packages added in this section may or may not be necessary, depending on the source files you were provided.
 
 As I only had a pdf file as source and had to find a quick method to get the files into LaTeX where I could begin cleaning it up and applying appropriate LaTeX notation. My solution was to use a tool called Writer2LaTeX. I discussed this before in a previous topic.

@@ -1,10 +1,6 @@
----
-title: Creating a Custom Title Page
-description: LaTeX has the capability of defining quite good looking title pages. Not easy, but doable.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Creating a Custom Title Page
+
+LaTeX has the capability of defining quite good looking title pages. Not easy, but doable.
 
 LaTeX comes with a standard title page, but you can create your own custom title page.
 

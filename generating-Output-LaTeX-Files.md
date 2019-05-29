@@ -1,9 +1,7 @@
----
-title: Generating Output from a LaTeX File
-description: After creating a LaTeX file, It needs to be built using the TeX distribution to generate an output PDF file.
-layout: single
-categories: latex
----
+# Generating Output from a LaTeX File
+
+After creating a LaTeX file, It needs to be built using the TeX distribution to generate an output PDF file.
+
 Before we start actually working with the output from the converted PDF file as described in the previoius topic, lets look at how to generate an output file from a LaTeX file.
 
 **To build a LaTeX file**

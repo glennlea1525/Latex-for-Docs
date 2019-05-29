@@ -1,9 +1,7 @@
----
-title: Setting Table-related Styles and Packages
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Setting Table-related Styles and Packages
+
+
+
 Package for making supertabular tables
 
     \usepackage{supertabular} \usepackage{xcolor} \usepackage{tikz} \usepackage{longtable}

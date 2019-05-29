@@ -1,8 +1,5 @@
----
-title: "Using LaTeX to Create Technical Documentation"
-layout: single
-permalink: /latex/
----
+# "Using LaTeX to Create Technical Documentation"
+
 LaTeX is commonly thought of as a documentation technology used primarily in academia and science. With a bit of effort, however, it can be used to generate very high quality  documentation for software or hardware products.
 
 This series of articles show you how it can be done based on my experiences doing so for a number of clients.

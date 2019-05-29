@@ -1,9 +1,6 @@
----
-title: Using Input or Include Commands
-description: In a root file, referencing chapter file can be done using either the include or the input commands
-layout: single
-categories: latex
----
+# Using Input or Include Commands
+
+In a root file, referencing chapter file can be done using either the include or the input commands
 
 When referencing external chapters to include them in the output stream while generating a LaTeX document, you can use either \input or \include.
 

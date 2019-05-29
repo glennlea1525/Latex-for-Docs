@@ -1,10 +1,6 @@
----
-title: Setting Page Size, Margins and Layout
-description: Before customizing headers and footers, you should define the page size, margins and layout.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Setting Page Size, Margins and Layout
+
+Before customizing headers and footers, you should define the page size, margins and layout.
 
 Before you begin defining headers and footers and adding content to chapters, you need to set up the document page size, page margins and page layout.
 

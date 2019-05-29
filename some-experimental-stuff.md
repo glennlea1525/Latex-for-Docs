@@ -1,9 +1,7 @@
----
-title: Some Experimental Stuff
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Some Experimental Stuff
+
+
+
 **Footnote rules**
 
 This sets the footnote rule which would appear just above the first footnote on a page, if used.

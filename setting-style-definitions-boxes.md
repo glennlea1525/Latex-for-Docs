@@ -1,9 +1,7 @@
----
-title: Setting Style Definitions for Note, Info, and Warning Boxes
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Setting Style Definitions for Note, Info, and Warning Boxes
+
+
+
 **Definition for Warning Boxes**
 
 This long bit of LaTeX defines the rules, spacing, icon and background colour of a warning box. A Warning Box is information that you must be aware of before you perform a specific task. You can copy and adjust these settings as needed.

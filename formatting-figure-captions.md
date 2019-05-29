@@ -1,9 +1,7 @@
----
-title: Formatting figure captions
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Formatting figure captions
+
+
+
     \usepackage[font=small,format=plain,labelfont=bf,up,textfont=it,up]{caption}
 
 

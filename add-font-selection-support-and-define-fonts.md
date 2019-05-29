@@ -1,10 +1,6 @@
----
-title: Adding Font Selection Support and Defining Fonts
-description: Define the base font for your document and font support for monospaced font and font size specifications.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Adding Font Selection Support and Defining Fonts
+
+Define the base font for your document and font support for monospaced font and font size specifications.
 
 Setting fonts in LaTeX is not an obvious task. It is, to be honest, rather cumbersome. I should start with the basis.
 

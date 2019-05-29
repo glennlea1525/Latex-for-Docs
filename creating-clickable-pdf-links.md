@@ -1,10 +1,6 @@
----
-title: Creating Hypertext Links
-description: When generating a PDF, you create clickable links using the hyperref package.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Creating Hypertext Links
+
+When generating a PDF, you create clickable links using the hyperref package.
 
 When you generate a pdf version of a user guide, you want cross-references within the document to be clickable. Otherwise, why bother making them. Using the `\hyperref` package allows this.
 

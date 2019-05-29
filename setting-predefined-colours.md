@@ -1,10 +1,6 @@
----
-title: Defining and Using Colours
-description: By setting colour definitions in the stylesheet, you can reference them throughout the stylesheet or in the document.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Defining and Using Colours
+
+By setting colour definitions in the stylesheet, you can reference them throughout the stylesheet or in the document.
 
 If you have corporate colours, you will need to use these colours in your documentation, perhaps on the title page or in the headers or footers.
 

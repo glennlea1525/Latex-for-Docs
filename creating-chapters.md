@@ -1,10 +1,6 @@
----
-title: Writing Chapters and Appendices
-description: Chapters in LaTeX require specific commands and use section headings which are pulled out into the Table of Contents
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Writing Chapters and Appendices
+
+Chapters in LaTeX require specific commands and use section headings which are pulled out into the Table of Contents
 
 Writing chapters are the bread and butter of technical writers. It is the content of the document. LaTeX is well served to produce very good content. Furthermore, it allows for individual chapters in the spirit of FrameMaker.
 

@@ -1,9 +1,5 @@
----
-title: Setting Line Spacing Package and Settings
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Setting Line Spacing Package and Settings
+
 Set text spacing to 1.5 using the setspace package. Options are commented out.
 
     \usepackage{setspace}

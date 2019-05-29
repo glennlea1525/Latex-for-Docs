@@ -1,9 +1,4 @@
----
-title: A Very Brief Introduction to LaTeX
-description: As the title says!
-layout: single
-categories: latex
----
+# A Very Brief Introduction to LaTeX
 
 ## My Unexpected Deep Dive into LaTeX
 

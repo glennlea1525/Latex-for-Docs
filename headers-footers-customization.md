@@ -1,10 +1,6 @@
----
-title: Creating Custom Headers and Footers
-description: Using the fancyhdr package, you can create customized headers and footers.
-layout: single
-categories: latex
----
-{% include toc icon="gears" title="Contents" %}
+# Creating Custom Headers and Footers
+
+Using the fancyhdr package, you can create customized headers and footers.
 
 Page headers and footers in LaTeX are defined by the `\pagestyle` and `\pagenumbering` commands.
 

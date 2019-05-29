@@ -1,9 +1,7 @@
----
-title: Customizing Lists and Indentation
-description: Orange juice is juice from oranges. It's made by squeezing oranges.
-layout: single
-categories: latex
----
+# Customizing Lists and Indentation
+
+
+
 Package for resuming enumeration after intervening text element.
 
     \usepackage{enumitem}
