@@ -1,6 +1,6 @@
 # Quick Start Guide - Overview
 
-description: Quick overview to get you up and running in no time at all.
+Summary: Quick overview to get you up and running in no time at all.
 
 LaTeX can be used to develop very good technical documentation, but it requires the use of specific document classes, packages and settings. What follows in this and upcoming topics is entirely my own experience having to create high quality user guides and manuals using LaTeX. Much of it was trial and error until I finally landed on a good set of tools to do the job. Consultants, clients and Stack Overflow helped considerably.
 
@@ -51,9 +51,10 @@ and use as a teach-yourself guide.
 ```
 Your LaTeX file should look as follows:
 
-<img src="/assets/images/latex/quickstart-source.jpg" alt="Quick Start Guide Output" style="width:441px;height:506px;">
-<figcaption>Quick Start LaTeX file in TexWorks.</figcaption>
+![Source LaTex file]
+(https://github.com/glennlea1525/Latex-for-Docs/imgages/quickstart-source.jpg)
 
+*Quick Start LaTeX file in TexWorks.*
 
 ## 3. Build (Compile) the LaTeX File to Generate a PDF Document
 
@@ -61,13 +62,16 @@ After entering the text, save it as `QuickStart.tex`.
 
 The file needs to be built (or compiled) to generate a PDF file.
 
-The preferred way is to use a LaTeX editor such as TeXworks or TeXnicCenter. You could also use the commmand line if you have MikTex in your path.
+The preferred way is to use a LaTeX editor such as TeXworks or TeXnicCenter. You could also use the command line if you have MikTex in your path.
 
 In TeXworks, select the build option *pdfLaTeX* from the *Build* menu, then click *Build* (the arrow next to the dropdown menu).
 
 You should see the following results as a PDF file in a viewer.
 
-<img src="/assets/images/latex/quickstart-output.jpg" alt="Quick Start Guide Output" style="width:550px;height:700px;">
-<figcaption>Quick Start LaTeX file output.</figcaption>
+![LaTex file output]
+(https://github.com/glennlea1525/Latex-for-Docs/imgages/quickstart-output.jpg)
 
-To build the LaTeX file using the command line, change to the directory containing `QuickStart.tex`, then enter `pdflatex QuickStart.tex`.
+To build the LaTeX file using the command line:
+
+1. Change to the directory containing `QuickStart.tex`.
+1. Enter `pdflatex QuickStart.tex`.
