@@ -6,10 +6,10 @@ This series of articles show you how it can be done based on my experiences doin
 
 I should be clear here about what we are trying to achieve. If you must use LaTeX for tech docs, doing so is not a easy as, say, DITA, but it can be done. It requires diving into the minutia of LaTeX packages, commands, options, arguments and so forth. You can start learning using the Quick Start Guide or jump over that and go directly to creating a documentation root file. I tried to make these topics linear. At the same time, you can use them as reference topics for specific problems you may have. But remembers, these topics are not the final word on using LaTeX for tech docs. The same resources I used are available for you. Google is your guide.
 
-See also:
+See also (external links):
 
-[Markdown basics](http://daringfireball.net/projects/markdown/basics)
+- [Markdown basics](http://daringfireball.net/projects/markdown/basics)
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#lists)
 
-[Wikipedia description of a LaTex document structure(https://en.wikibooks.org/wiki/LaTeX/Document_Structure)
+- [Wikipedia description of a LaTex document structure](https://en.wikibooks.org/wiki/LaTeX/Document_Structure)
